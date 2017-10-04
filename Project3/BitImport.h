@@ -7,9 +7,9 @@ class BitImport {
 public:
 	BitImport(char* myFile);
 	~BitImport();
-	static const int INFOBUF = 256;
+	static const int INFOBUF = 512;
 	struct packet {
 		char info[INFOBUF];
-		bool data[DATABUF*8];
+		bool data[8092];
 	} packs[PACKBUF];
 };
