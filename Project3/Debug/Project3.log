@@ -1,0 +1,11 @@
+﻿  DecodedNewPacket.cpp
+c:\users\deltaz\desktop\ncodertemp\project3\decodednewpacket.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\deltaz\desktop\ncodertemp\project3\decodednewpacket.cpp(78): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\deltaz\desktop\ncodertemp\project3\decodednewpacket.cpp(109): warning C4244: '+=': conversion from 'double' to 'char', possible loss of data
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\users\deltaz\desktop\ncodertemp\project3\main.cpp(304): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project3.vcxproj -> C:\Users\DeltaZ\Desktop\ncodertemp\Debug\Project3.exe
+  Project3.vcxproj -> C:\Users\DeltaZ\Desktop\ncodertemp\Debug\Project3.pdb (Partial PDB)
